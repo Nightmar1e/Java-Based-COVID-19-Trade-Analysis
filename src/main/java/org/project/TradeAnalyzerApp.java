@@ -1,13 +1,8 @@
-package project;
+package org.project;
 
 import java.util.*;
-import java.io.FileReader;
-import java.io.IOException;
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
 
-import static project.TradeAnalyzerCalculator.*;
+import static org.project.TradeAnalyzerCalculator.*;
 
 public class TradeAnalyzerApp {
     private static final String CSV_FILE_PATH = "/Users/Walid/Desktop/Becode/The Mountain/Java/CleanProject/src/main/resources/covid_and_trade.csv";
