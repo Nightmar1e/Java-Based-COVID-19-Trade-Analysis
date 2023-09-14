@@ -1,6 +1,5 @@
 package org.project;
 
-
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
